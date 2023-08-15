@@ -5,7 +5,7 @@
         My e-mail address: <a href='mailto:abhradeepde123@gmail.com'>abhradeepde123@gmail.com</a>
     </li>
     <li>
-        My website: <a href='abhradeep-de.vercel.app'>abhradeep-de.vercel.app</a>
+        My website: <a href='https://abhradeep-de.vercel.app'>abhradeep-de.vercel.app</a>
     </li>
 </ul>
 
