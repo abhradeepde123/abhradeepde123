@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m @abhradeepde123</h1>
-- 📫 How to reach me
+<h3>📫 How to reach me</h3>
 <ul>
     <li>
-        <a href='mailto:abhradeepde123@gmail.com'>abhradeepde123@gmail.com</a>
+        My e-mail address: <a href='mailto:abhradeepde123@gmail.com'>abhradeepde123@gmail.com</a>
     </li>
 </ul>
 
